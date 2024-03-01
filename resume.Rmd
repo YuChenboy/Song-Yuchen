@@ -1,0 +1,87 @@
+---
+output: 
+  html_document:
+    css: style.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<html>
+
+<head>
+
+```{=html}
+<style>
+.center {
+  text-align: center;
+}
+</style>
+```
+</head>
+
+<body>
+
+::: center
+<h1>RESUME</h1>
+
+<h2>Song Yuchen</h2>
+
+<h3>2024-03-01</h3>
+:::
+
+::: center
+<h3>Job Application: Data Analyst</h3>
+:::
+
+## Education
+
+| SCHOOL                                            | MAJOR                                | DEGREE      |
+|---------------------------------|------------------------|----------------|
+| **Hebei University of Environmental Engineering** | Internet of things                   | Engineering |
+| **University of Illinois Chicago**                | Master of Science in Civic Analytics | Master      |
+
+## Skills
+
+1.Statistical knowledge: Data analysts need to have a solid foundation in statistics and be able to understand and apply various statistical tests and models to analyze data sets.
+
+2.Programming skills: Master programming languages related to data analysis, such as Python or R.
+
+3.Data Processing and Cleaning: Ability to use software tools or programming skills to process and clean data, including handling missing data, outliers, and erroneous data for analysis.
+
+4.Data Visualization: Ability to use RStudio for data visualization.
+
+5.Database Management: Understand database management systems, such as SQL, and be able to efficiently retrieve data from databases.
+
+6.Machine Learning: Understand basic machine learning concepts and techniques, including supervised and unsupervised learning, and how to use them to analyze complex data sets.
+
+7.Problem-solving skills: Able to flexibly think and solve problems when faced with problems that arise during data analysis.
+
+8.Project Management: Ability to manage data analytics projects, including planning project timelines, allocating resources, and coordinating team members.
+
+## Career development planning
+
+### Short term goals (1-2 years)
+
+1.  Accumulate experience: Accumulate practical work experience in a junior or mid-level data analyst position, handle different types of data sets, and solve various business problems.
+
+2.  Professional growth: Stay current on the latest data analysis tools and techniques by attending industry conferences, webinars, and training courses.
+
+3.  Knowledge building: Strengthen connections with other data analysts in the industry and build professional networks through LinkedIn, industry conferences and professional forums.
+
+### Mid-term goals (3-5 years)
+
+1.  Professional deepening: Based on personal interests and industry needs, choose one or more fields for in-depth study, such as machine learning, big data analysis, or data analysis in specific industries (such as finance, medical, etc.).
+
+2.  Leadership skills: Seek opportunities to lead small projects or teams to improve project management and teamwork skills.
+
+3.  Contribute knowledge: Share your knowledge and experience to improve your personal brand by writing blogs, publishing research papers, or speaking at conferences.
+
+### Long-term goals (6 years and above)
+
+1.  Industry Expert: Become a recognized expert in your chosen field and be the person your industry seeks advice and advice from.
+
+2.  Senior positions: Depending on personal career interests, consider promotion to higher-level positions such as Data Analytics Manager, Data Scientist, or Director of Business Analytics.
+
+3.  Entrepreneurship opportunities: Consider entrepreneurial opportunities, use accumulated experience and professional networks to establish your own company, and provide data analysis consulting services.
